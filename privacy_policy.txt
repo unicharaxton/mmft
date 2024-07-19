@@ -1,0 +1,138 @@
+# Privacy Policy
+## Privacy Notice to all Marine Mastery: Fishing Tycoon Website and App Users
+**Version last updated:** July 12th, 2024
+
+### Introduction
+
+Marine Mastery: Fishing Tycoon ("We," "us," or "our") places a high priority on the privacy of our users ("you"). This Privacy Policy details how we manage the personal information collected from you when you use our mobile application (the "App"). Please read this Privacy Policy carefully to understand how we protect your privacy. By using the App, you consent to the terms of this Privacy Policy. We may revise this policy periodically. Any updates will be communicated by posting the revised policy on the App or our website, and through other appropriate communication channels. Your continued use of the App after such changes signifies your acceptance of the updated terms.
+
+### 1. Important Contact Information
+- **App Name:** Marine Mastery: Fishing Tycoon
+- **Email:** unicharaxton.com@gmail.com
+
+### 2. Purpose of this Privacy Notice
+
+We, the aforementioned controller (“Marine Mastery: Fishing Tycoon”, "We," "us," or "our") are dedicated to safeguarding personal data related to you and respecting your privacy.
+
+When you use our products and services, including websites such as <domain>, or mobile apps, we will process certain personal data that concerns you. ‘Process’ or ‘processing’ as used in this Privacy Notice includes any operation performed on personal data or on sets of personal data, like collection, storage, organisation, retrieval, updating, amending, deletion, consultation, use, sharing or making available internally or to others.
+
+This Website and App Users Privacy Notice (“Privacy Notice”) outlines the processing we perform, the purpose of the processing, the legal basis for the processing, our legal responsibilities as a controller, and your rights in relation to that processing.
+
+### 3. Personal Data We May Collect and How We Process It
+
+**If you visit one of our websites, we will process this information to:**
+- Provide you with access to the website
+- Enhance your user experience
+- Improve the overall experience for all users
+
+Refer to the information on cookies below and the cookie policy and cookie consent on the relevant website.
+
+**If you use one of our mobile apps:**
+All the above information plus:
+- Apple or Google User ID
+- Specific user behavior characteristics
+- Preferences including advertising preferences
+- Technical device data, device and website usage data
+- The name associated with your device
+- Your country
+- Your specific geolocation
+- Information about Marine Mastery: Fishing Tycoon and other third-party apps on your device
+- An Marine Mastery: Fishing Tycoon player ID number created by us to identify you
+
+We will process this information to:
+- Optimize your experience
+- Secure your user data and personal data
+- Improve our mobile apps
+
+In some cases, we will ask for your permission before accessing this personal data within the app. The level of access may also depend on your device’s privacy settings, which can be adjusted in the settings menu of your device.
+
+### 4. Lawful Basis of Processing
+
+We process all the above data in pursuit of our legitimate business interests, including acquiring new business, customers, and revenue streams, as well as developing new, improved apps and games and building our market share, reputation, and brands. In some cases, we also need to process the personal data pursuant to a contract with you or a third party, such as Apple or Google, or to comply with a legal obligation. Where we have not indicated that a lawful basis other than legitimate interest applies, you are entitled to object to the processing of the personal data.
+
+### 5. Rights of EU Residents
+
+Residents of the European Economic Area (EEA) have additional rights, including the right to obtain copies of personal data and to file complaints with local data protection authorities. Data may be transferred outside the EEA to jurisdictions with varying levels of protection, and by using the App, you explicitly agree to such transfers. Consent may be revoked at any time.
+
+### 6. Third-Party Service Providers
+
+We will share your information with third-party companies to perform services on our behalf, such as processing payments, analyzing data, optimizing gameplay, e-mail delivery, hosting services, customer service, and assisting us in our marketing efforts, including managing and delivering contextual and tailored advertisements. We contractually require these third-party service providers to maintain the confidentiality of the information we share with them and not to use your information for anything other than to provide services on our behalf.
+
+### 7. Cookies, Analytics, and Automated Information Collection
+
+We and service providers acting on our behalf, like Aliyun SLS, store log files and use tracking technologies such as:
+- Cookies: Small data pieces transferred to your mobile device or computer for record-keeping purposes
+- Web beacons: Indicate if a certain page was visited or whether an e-mail was opened
+- Tracking pixels: Allow us or our advertising partners to advertise more efficiently and effectively
+- Local shared objects (flash cookies): Help reduce fraud, remember your in-game preferences, and speed up load times
+
+We and our service providers use these log files, tags, and tracking technologies to collect and analyze certain kinds of technical information, including:
+- IP addresses
+- The type of computer or mobile device you are using
+- Your operating system version
+- Your mobile device’s identifiers, such as MAC Address, Identifier For Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI)
+- Device types
+- Device language
+- Referring and exit pages, and URLs
+- Platform type
+- Number of clicks on a page or feature
+- Domain names
+- Landing pages
+- Pages viewed and the order of those pages
+- Time spent on particular pages
+- Game state and the date and time of activity on our websites or games
+
+In some cases, we will connect this information with your social network ID or Marine Mastery: Fishing Tycoon player ID.
+
+Please note that companies delivering advertisements on our Services may also use cookies or other technologies as described above, and those practices are subject to those companies’ own policies. More information on how third parties may use your data in our Services can be found in Appendix A below.
+
+### 8. Personal Data Concerning You That We May Process on Behalf of Others
+
+For a personalized advertisement experience, advertising networks and their partners, some of which are listed below, may collect or receive device information from our apps and other apps that include personal and non-personal information, such as advertising (or ad) identifiers, IP address, or other information regarding the delivery of advertisements and your interaction with them, inventory of installed apps, and/or other tracking technologies to provide measurement services, personalization, ad selection, delivery, reporting, and optimize targeted ads. You can learn more about how each handles your data by accessing their respective privacy notices using the hyperlinks below.
+
+### 9. How We Share Your Information
+
+We may disclose or publish aggregated information (information about you and other players collectively that is not intended to specifically identify you) and other non-personal information about our players for industry analysis, demographic profiling, marketing, analytics, advertising, and other business purposes. Additionally, we may share your information (which may include personal information) with third parties (parties other than Marine Mastery: Fishing Tycoon) or allow third parties to collect this information from our Services.
+
+### 10. Privacy Policies of Linked Third-Party Services and Advertisers
+
+Our websites and games may contain advertisements from Third-Party Services, which are companies other than Marine Mastery: Fishing Tycoon that may link to their own websites, online services, or mobile applications. We are not responsible for the privacy practices or the content of these Third-Party Services. If you have any questions about how these Third-Party Services use your information, you should review their policies and contact them directly.
+
+### 11. Protection of Children's Information
+
+We do not intentionally collect information from children under the age of 13 (or under 16 in the EEA). If a parent or guardian believes their child has provided us with personal information without their consent, they should contact us immediately, and we will take steps to remove such information.
+
+### 12. Retention of Information
+
+We retain your information only for the period necessary to fulfill the purposes for which it was collected, to comply with legal obligations, or until you request its deletion. As such, we will store your information for the duration of your interaction with the mobile application provided as part of our Services. After that period, information will be permanently deleted or de-identified for use in analytics.
+
+### 13. Security of Your Information
+
+We implement security measures to help protect the security of your information both online and offline. We take steps to ensure that your data is treated securely and in accordance with this Privacy Policy. 
+
+We use industry-standard security measures, including physical, administrative, and technical safeguards, as well as encryption where necessary, to protect your information from unauthorized access, disclosure, alteration, and destruction.
+
+While we take precautions against possible security breaches of our Services and our customer databases and records, no website or Internet transmission is completely secure. We cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur, and we cannot guarantee the security of your information while it is being transmitted to our Service. Any transmission is at your own risk. If you have questions about the security of our websites, please contact us at unicharaxton.com@gmail.com.
+
+### 14. Changes to Our Privacy Policy
+
+We may need to update this Privacy Notice to reflect changes to our data processing practices. If we do this and the changes are material, we will post a notice on unicharaxton.com@gmail.com for at least 8 days before the changes are made. You can see the date this Privacy Notice was last revised at the top of the page.
+
+### 15. Your Rights
+
+The applicable data protection laws give you certain specific rights in relation to the processing of personal data that concerns you. Please note that not all these apply in all circumstances. However, you are always welcome to contact us with any request relating to the processing of your personal data. Even where we are not obliged by law to comply with your request, we will try to accommodate your wishes.
+- **Access:** You have the right to access personal data concerning you and certain information about how and why we are processing it.
+- **Rectification:** You have the right to have any inaccurate or incomplete personal data rectified without undue delay.
+- **Erasure:** Sometimes called the ‘right to be forgotten’, in certain circumstances, you have the right to have personal data that concerns you erased without undue delay.
+- **Restriction:** In certain circumstances, you have the right to have our processing of personal data concerning you restricted.
+- **Data Portability:** In certain limited circumstances, you have the right to receive any personal data concerning you that you have provided to us, in a structured, commonly-used and machine-readable format, and the right to transmit those data to another controller without hindrance.
+- **Objection:** In certain circumstances, you have the right to object to the processing of personal data carried out by us or on our behalf where it concerns you.
+
+### 16. Contact Us
+
+If you have any questions about your personal data or this Privacy Policy, please contact us.
+
+**APPENDIX A – Advertising Networks and Their Partners**
+
+- **AppLovin:** An advertising service provided by AppLovin Corporation (US)
+  - [https://www.applovin.com/privacy](https://www.applovin.com/privacy)
